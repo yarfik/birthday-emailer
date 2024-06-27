@@ -25,7 +25,6 @@ def get_letter(person_name):
         letter_lines = letter_file.readlines()
         letter_lines[0] = letter_lines[0].replace("[NAME]", person_name)
         return "".join(letter_lines)
-    return "- Happy Birthday -"
 
 
 current_date = dt.datetime.now()
