@@ -3,7 +3,7 @@ import datetime as dt
 import random
 
 my_email = "yarfikardiansyah@gmail.com"
-my_password = "eqixlhrbqxdyfgjc"
+my_password = ""
 to_email = "yarfik97@yahoo.com"
 quotes = []
 
